@@ -4034,6 +4034,30 @@
 		(layer "Edge.Cuts")
 		(uuid "fc4f865c-e818-4e48-b90e-f9ce5b939c5b")
 	)
+	(gr_text "GND"
+		(at 170.815 120.65 0)
+		(layer "F.SilkS")
+		(uuid "08ccd7f6-043e-4d86-8f8c-ea53ca031af6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "VOUT"
+		(at 152.4 121.92 0)
+		(layer "F.SilkS")
+		(uuid "1719e6e1-64d0-45af-8504-c15bba3bb181")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "Ref. Resistance"
 		(at 123.19 102.87 0)
 		(layer "F.SilkS")
@@ -4050,6 +4074,18 @@
 		(at 102.87 106.68 0)
 		(layer "F.SilkS")
 		(uuid "5980a9ae-ca16-4124-b9bf-ba955467a3c2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "GND"
+		(at 111.125 106.045 0)
+		(layer "F.SilkS")
+		(uuid "64036ac5-034f-4c2d-9706-4656a7cd268c")
 		(effects
 			(font
 				(size 1 1)
