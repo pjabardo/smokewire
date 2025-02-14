@@ -155,7 +155,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Phoenix_MSTB:PhoenixContact_MSTBA_2,5_2-G-5,08_1x02_P5.08mm_Horizontal"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -191,7 +191,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/6dd6cfd7-7c77-4c19-8ec4-fc941ffa9258")
+		(sheetname "Root")
 		(sheetfile "smokewire.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -772,7 +774,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -808,7 +810,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/e4994ef4-c875-4170-8e42-d0fc413eca04")
+		(sheetname "Root")
 		(sheetfile "smokewire.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -1042,7 +1046,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Phoenix_MSTB:PhoenixContact_MSTBA_2,5_2-G-5,08_1x02_P5.08mm_Horizontal"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1078,7 +1082,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/d343a141-9ae1-4c7a-b5f3-cf0297ff52b3")
+		(sheetname "Root")
 		(sheetfile "smokewire.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -1445,7 +1451,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1457,7 +1463,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/TIP120-D.PDF"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1481,7 +1487,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO?220*")
 		(path "/9ea345ba-2f2f-4d19-9046-1a416be6985d")
+		(sheetname "Root")
 		(sheetfile "smokewire.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -1748,7 +1756,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1784,7 +1792,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/94ef64f3-201d-4cb5-8d7f-ad3cce25e43f")
+		(sheetname "Root")
 		(sheetfile "smokewire.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -2125,7 +2135,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_LongPads"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -2137,7 +2147,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm2904-n.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -2161,7 +2171,9 @@
 				)
 			)
 		)
-		(path "/94f86214-daf8-43cf-8dae-d2a190c62480")
+		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TO*99* OnSemi*Micro8* TSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm* SSOP*3.9x4.9mm*P0.635mm* LFCSP*2x2mm*P0.5mm* *SIP* SOIC*5.3x6.2mm*P1.27mm*")
+		(path "/e3166031-c60e-446b-a2cd-6b935baaf2d6")
+		(sheetname "Root")
 		(sheetfile "smokewire.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -2559,7 +2571,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_Power_L25.0mm_W9.0mm_P30.48mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2595,7 +2607,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/50eece3b-39a5-4b82-8e26-12238966bb8f")
+		(sheetname "Root")
 		(sheetfile "smokewire.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -2829,7 +2843,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -2865,7 +2879,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/af314710-11d8-4367-ba12-5485991c6b2d")
+		(sheetname "Root")
 		(sheetfile "smokewire.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -3099,7 +3115,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3135,7 +3151,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "C_*")
 		(path "/dfae2f1a-f124-40de-ab8b-8b948a52a0bd")
+		(sheetname "Root")
 		(sheetfile "smokewire.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -3349,7 +3367,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Phoenix_MSTB:PhoenixContact_MSTBA_2,5_2-G-5,08_1x02_P5.08mm_Horizontal"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3385,7 +3403,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/34c3f718-8df9-49cc-9f96-dcde6f7e8ed7")
+		(sheetname "Root")
 		(sheetfile "smokewire.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -3752,7 +3772,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3788,7 +3808,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "R_*")
 		(path "/102a8cf8-c121-404d-a0bb-524fdbbfc325")
+		(sheetname "Root")
 		(sheetfile "smokewire.kicad_sch")
 		(attr through_hole)
 		(fp_line
